@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hom_4.4worke</string>
+    <string name="number">Введите номер телефона</string>
+    <string name="ext">Дальше</string>
+    <string name="youtube">Youtube</string>
+    <string name="google">Google</string>
+    <string name="whatsapp">Whatsapp</string>
+</resources>
